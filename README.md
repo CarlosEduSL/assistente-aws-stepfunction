@@ -3,8 +3,8 @@
 
 ## 📋 Introdução
 
-**Título do Projeto:** Assistente de Delivery com AWS Step Functions e Amazon Bedrock  
-**Descrição Concisa:** Este projeto implementa um Assistente de Delivery automatizado que utiliza AWS Step Functions para orquestrar o fluxo de pedidos e Amazon Bedrock para personalização da experiência do cliente, respondendo perguntas frequentes, fornecendo recomendações e resolvendo problemas com pedidos.  
+ Assistente de Delivery com AWS Step Functions e Amazon Bedrock  
+ Este projeto implementa um Assistente de Delivery automatizado que utiliza AWS Step Functions para orquestrar o fluxo de pedidos e Amazon Bedrock para personalização da experiência do cliente, respondendo perguntas frequentes, fornecendo recomendações e resolvendo problemas com pedidos.  
 
 ---
 
